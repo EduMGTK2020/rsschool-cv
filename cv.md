@@ -1,11 +1,11 @@
-#CV
+# CV
 
 1. My name is Eduard Nebolsin 
 
 2. Contacts 
-- edu@544062.ru 
-- Ed (@edumgtk2020) 
-- 7(989)8544062 
+    * edu@544062.ru 
+    * Эд (@edumgtk2020) 
+    * +7(989)8544062 
 
 3. More than 25 years in software development and maintenance. Participated in projects to create accounting systems for various industries. 
 
